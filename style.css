@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+h1{ 
+    border-radius: 10px;
+    color: orange; 
+    text-decoration: underline ;
+}
+
+footer { 
+    background-color: burlywood;
+    padding: 10px;
+
+}
+
+footer p{ 
+    background-color: white;
+    margin:10px;
+    
+}
+nav{ 
+    text-align: center;
+    border: 2px solid grey;
+    background-color: #E49BEB;
+    Padding: 20px;
+     margim: 20px;
+}
+nav a{ 
+
+    margim: 50px;
+    color: #EBD79B;
+
+}
+.adrian{
+      border: solid 2px blue;
+      padding: 20px;
+      margin: 20px;
+      border-radius: 10px;
+
+}
+h2{
+  color: #EBD79B
+}
+main a{
+    font-size: 20px;
+    padding: 10px;
+    border: 3px solid #9BEB08;
+    border-radius: 10px;
+}
